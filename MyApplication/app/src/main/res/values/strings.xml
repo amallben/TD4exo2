@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string-array name="titre_array">
+        <item>" LES MISERABLES"</item>
+        <item>" LES CHEMINS QUI MoNTENT"</item>
+        <item>" THINK AND GROW RICH"</item>
+    </string-array>
+    <string-array name="auteur_array">
+        <item>"Auteur: Victor Hugo"</item>
+        <item>"Auteur: Mouloud Faraoun"</item>
+        <item>"Auteur: Napoleon Hill"</item>
+    </string-array>
+    <string-array name="description_array">
+        <item>"Le roman Les Misérables paraît pour la première fois en 1862. Il esquisse en cinq tomes le portrait de la France du XIXe siècle et de ses injustices sociales. Victor Hugo nous fait suivre, pas à pas, la vie du bagnard Jean Valjean. Roman à multiples facettes (sociale, philosophique, historique et littéraire), Les Misérables est une oeuvre à la postérité incroyable : cinéma, comédies musicales, références populaires... L'écrivain lui-même avait pressenti ce succès, puisqu'il écrit en mars de l'année de la parution à son éditeur : « Ma conviction est que ce livre sera un des principaux sommets, sinon le principal, de mon oeuvre ». L'oeuvre s'articule autour de cinq tomes : Fantine, Cosette, Marius, L'idylle rue Plumet et l'épopée Rue Saint-Denis, et enfin Jean Valjean."</item>
+        <item>"Les Chemins qui montent est un récit d'amour et de vengeance dans un
+village Kabyle, pendant la guerre de libération.C'est une histoire d'amour entre deux jeunes Kabyles Amer n'Amer, filsd'une Française qui s'appellera "Madame" tout au long du roman et d'un pèreKabyle décédé, Amer Ait Larbi"</item>
+        <item>"Ce livre tente d’expliquer pourquoi certaines personnes ont amassé de grandes fortunes alors que d’autres n’arrivent pas à finir leur fin de mois. Depuis son lancement en 1937, ce livre n’a jamais cesser d’être la référence auprès des personnes qui cherchent comment de venir riche."</item>
+    </string-array>
+    <string-array name="pays_array">
+        <item>"Pays: France"</item>
+        <item>"Pays: Algérie"</item>
+        <item>"Pays: États Unis"</item>
+    </string-array>
+    <string-array name="genre_array">
+        <item>"Genre: Roman,historique"</item>
+        <item>"Genre: Romans,Littérature française"</item>
+        <item>"Genre: NonFiction,SelfHelp"</item>
+    </string-array>
+
+</resources>
